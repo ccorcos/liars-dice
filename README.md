@@ -1,15 +1,8 @@
-# Game Score Counter
+# Liars Dice Calculator
 
-[Live App](https://ccorcos.github.io/game-counter)
+[Live App](https://ccorcos.github.io/liars-dice)
 
-A simple application for keeping score in games. For example, golf or Settlers of Catan.
-
-## Architecture
-
-- No side-effects at the top level except for index.tsx.
-- External effects interface through services defined on the Environment.
-- The Environment is plumbed around everywhere.
-- TupleDatabase as a UI state management system.
+A simple app for keeping track of odds in liars dice.
 
 ## Development
 
