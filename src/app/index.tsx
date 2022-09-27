@@ -38,7 +38,7 @@ function Calculator() {
 
 	return (
 		<>
-			<h3>Liars Dice Calculator</h3>
+			<h3>Liar's Dice Calculator</h3>
 
 			<p>How many dice?</p>
 			<div style={{ display: "flex", gap: 8 }}>
