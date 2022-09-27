@@ -1,3 +1,7 @@
+navigator.serviceWorker
+	.register("service-worker.js")
+	.catch((err) => console.error(err))
+
 import React, { useEffect, useMemo, useState } from "react"
 import ReactDOM from "react-dom"
 
